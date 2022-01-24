@@ -1,4 +1,4 @@
-<img class="banner" src="images/banner.jpeg" alt="Banner">
+<img class="banner" src="images/eugene.png" alt="Banner">
 <h1 align="center">
 Hi there, I'm Eugene! 👋
 </h1>
@@ -67,7 +67,7 @@ Random Student on github, love to make stuff with the Unity Engine. I also do so
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
-You can see my technologies I learned and planned to learn on my [Techonologies-To-Learn](https://github.com/SushiWaUmai/Technologies-To-Learn) repository.
+You can see my technologies I learned and planned to learn on my [Technologies-To-Learn](https://github.com/SushiWaUmai/Technologies-To-Learn) repository.
 
 ---
 
