@@ -1,3 +1,9 @@
+<style>
+.banner {
+    border-radius: 0.25rem;
+}
+</style>
+<img class="banner" src="images/banner.jpeg" alt="Banner">
 <h1 align="center">
 Hi there, I'm Eugene! 👋
 </h1>
