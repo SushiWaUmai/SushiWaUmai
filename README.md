@@ -6,7 +6,7 @@ Hi there, I'm Eugene! 👋
 
 [![wakatime](https://wakatime.com/badge/user/8cc0a80a-7a1a-448c-8c5e-742ed9a33792.svg)](https://wakatime.com/@SushiWaUmai)
 
-Random Student on github, love to make stuff with the Unity Engine. I also do some full stack development with typescript.
+Random guy on github, love to make stuff with the Unity Engine. I also do full stack development with typescript.
 
 ---
 
