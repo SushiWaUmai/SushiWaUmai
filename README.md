@@ -16,7 +16,7 @@ Random guy on github, love to make stuff with the Unity Engine. I also do full s
 
 <div>
 <div>
-<img src="https://img.shields.io/badge/SushiWaUmai%235351-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" align="center" height="24px">
+<a href="https://discord.com/users/356155984412147723/"><img src="https://img.shields.io/badge/SushiWaUmai%235351-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" align="center" height="24px"></a>
 
 </div>
 <div>
