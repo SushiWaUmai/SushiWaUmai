@@ -75,11 +75,10 @@ You can see my technologies I learned and planned to learn on my [Technologies-T
 
 ### Coding Stats 📈
 
-[![Eugene Matsumura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SushiWaUmai&show_icons=true&count_private=true&theme=radical)](https://github.com/SushiWaUmai)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SushiWaUmai&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SushiWaUmai&layout=compact&theme=radical)](https://github.com/SushiWaUmai) -->
 
-[![Eugene Matsumura's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SushiWaUmai&layout=compact&theme=radical)](https://wakatime.com/@SushiWaUmai)
+[![Eugene Matsumura's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SushiWaUmai&layout=compact&theme=radical)](https://wakatime.com/@SushiWaUmai) -->
 
 ---
 
