@@ -78,7 +78,7 @@ You can see my technologies I learned and planned to learn on my [Technologies-T
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SushiWaUmai&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-[![Eugene Matsumura's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SushiWaUmai&layout=compact&theme=radical)](https://wakatime.com/@SushiWaUmai) -->
+[![Eugene Matsumura's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SushiWaUmai&layout=compact&theme=radical)](https://wakatime.com/@SushiWaUmai)
 
 ---
 
