@@ -14,18 +14,13 @@ Random guy on github, love to make stuff with the Unity Engine. I also do full s
 
 ### Connect with me 🤝
 
-<div>
-<div>
-<a href="https://discord.com/users/356155984412147723/"><img src="https://img.shields.io/badge/SushiWaUmai%235351-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" align="center" height="24px"></a>
+[![Discord](https://img.shields.io/badge/SushiWaUmai%235351-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/356155984412147723/)
+[![Instagram](https://img.shields.io/badge/eugenematsumura-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eugenematsumura/)
+[![Twitter](https://img.shields.io/badge/EugeneMatsumur1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/EugeneMatsumur1)
 
-</div>
-<div>
-<a href="https://www.instagram.com/eugenematsumura/"><img src="https://img.shields.io/badge/eugenematsumura-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" align="center" height="24px"></a>
-</div>
-<div>
-<a href="https://twitter.com/EugeneMatsumur1"><img src="https://img.shields.io/badge/EugeneMatsumur1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" align="center" height="24px"></a>
-</div>
-</div>
+[![GitHub](https://img.shields.io/badge/SushiWaUmai-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SushiWaUmai/)
+[![GitLab](https://img.shields.io/badge/SushiWaUmai-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/SushiWaUmai)
+
 
 ---
 
@@ -41,7 +36,9 @@ Random guy on github, love to make stuff with the Unity Engine. I also do full s
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
+[![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
+[![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
 
@@ -57,7 +54,6 @@ Random guy on github, love to make stuff with the Unity Engine. I also do full s
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/)
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/)
@@ -66,8 +62,11 @@ Random guy on github, love to make stuff with the Unity Engine. I also do full s
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
+[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)](https://manjaro.org/)
+[![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 
 You can see my technologies I learned and planned to learn on my [Technologies-To-Learn](https://github.com/SushiWaUmai/Technologies-To-Learn) repository.
 
