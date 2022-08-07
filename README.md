@@ -1,4 +1,4 @@
-[![Banner](images/eugene.png)](https://github.com/SushiWaUmai)
+[![Banner](images/banner.jpg)](https://github.com/SushiWaUmai)
 
 <h1 align="center">
 Hi there, I'm Eugene! 👋
