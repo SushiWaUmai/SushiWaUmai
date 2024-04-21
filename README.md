@@ -4,8 +4,6 @@
 Hi there, I'm Eugene! 👋
 </h1>
 
-[![wakatime](https://wakatime.com/badge/user/8cc0a80a-7a1a-448c-8c5e-742ed9a33792.svg)](https://wakatime.com/@SushiWaUmai)
-
 Random guy on GitHub, love to make stuff with TypeScript and Go.
 
 
